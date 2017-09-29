@@ -13,7 +13,7 @@
 东西很简单，其实就是Ali API的调用
 
 
-**配置说明**
+**配置说明 path_confong.js**
 
 ```
 var configs = {
